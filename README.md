@@ -4,7 +4,7 @@ A React Single Page Application (SPA) that leverages the **[Metropolitan Museum 
 
 ## Live Website
 
-Visit the deployed version here: [**https://my-deployed-metmuseum-spa.netlify.app/**](https://metropolitan-museum-of-art.netlify.app/)
+Visit the deployed version here: [**https://metropolitan-museum-of-art.netlify.app/**](https://metropolitan-museum-of-art.netlify.app/)
 
 ## Table of Contents
 
