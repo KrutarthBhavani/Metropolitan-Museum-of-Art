@@ -1,6 +1,10 @@
-# Metropolitan Museum of Art - React SPA
+# Metropolitan Museum of Art API
 
 A React Single Page Application (SPA) that leverages the **[Metropolitan Museum of Art Collection API](https://collectionapi.metmuseum.org/public/collection/v1/)** to showcase paginated art collections and detailed object views. This project demonstrates how to integrate public APIs into a modern React application using Vite, React Router, and Axios.
+
+## Live Website
+
+Visit the deployed version here: [**https://my-deployed-metmuseum-spa.netlify.app/**](https://metropolitan-museum-of-art.netlify.app/)
 
 ## Table of Contents
 
