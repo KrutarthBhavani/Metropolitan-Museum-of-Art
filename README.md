@@ -110,13 +110,13 @@ An optional search feature can be implemented using the API’s `/search` endpoi
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/met-museum-react-spa.git
+   git clone https://github.com/KrutarthBhavani/Metropolitan-Museum-of-Art.git
    ```
 
 2. **Navigate into the project folder**:
 
    ```bash
-   cd met-museum-react-spa
+   cd Metropolitan-Museum-of-Art
    ```
 
 3. **Install dependencies**:
